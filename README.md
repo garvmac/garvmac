@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi, I'm Mac :alien:
+### 👩‍💻 Full-Stack Engineer
+
+Constantly learning and exploring various technologies to build robust and innovative applications. 
+
+- :basecampy: Passionate on Start-up culture.
+    > Move Fast and Fix Things
+- 🔭 Currently working on mobile-order apps.
+- 🌱 Currently exploring Switf and expanding my skills in iOS development. 🐦
+- :mushroom: Freelance goals: to be involved in the full spectrum of website development, from design to coding.
+
+### Eager to collaborate, contribute, and grow in the tech community! 
 
 <!--
 **garvmac/garvmac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
