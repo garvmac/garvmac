@@ -5,7 +5,7 @@ Constantly learning and exploring various technologies to build robust and innov
 
 - :basecampy: Passionate on Start-up culture.
     > Move Fast and Fix Things
-- 🔭 Currently working on mobile-order apps.
+- 🔭 Working with a great team on mobile-order apps.
 - 🌱 Currently exploring Swift and expanding my skills in iOS development. 🐦
 - :mushroom: Freelance goals: to be involved in the full spectrum of website development, from design to coding.
 
