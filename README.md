@@ -3,7 +3,7 @@
 
 Constantly learning and exploring various technologies to build robust and innovative applications. 
 
-- :basecampy: Passionate on Start-up culture.
+- :basecampy: Passionate about Start-Up culture.
     > Move Fast and Fix Things
 - 🔭 Working with a great team on mobile-order apps.
 - 🌱 Currently exploring Swift and expanding my skills in iOS development. 🐦
