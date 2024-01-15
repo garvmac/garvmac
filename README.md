@@ -7,7 +7,7 @@ Constantly learning and exploring various technologies to build robust and innov
     > Move Fast and Fix Things
 - 🔭 Working with a great team on mobile-order apps.
 - 🌱 Currently exploring Swift and expanding my skills in iOS development. 🐦
-- :mushroom: Freelance goals: to be involved in the full spectrum of website development, from design to coding.
+- :mushroom: Freelance goals: to be involved in the full spectrum of website development, from design to backend coding.
 
 ### Eager to collaborate, contribute, and grow in the tech community! 
 ### よろしくお願いします
